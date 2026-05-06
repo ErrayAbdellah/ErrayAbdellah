@@ -13,7 +13,7 @@
 - 🛠️ Specialized in **Java/Spring Boot REST APIs** and **DevOps automation**
 - ☁️ Experience with **AWS (EKS, RDS, IAM)**, **Terraform**, and **Kubernetes**
 - 🔄 Building and maintaining **CI/CD pipelines** with GitLab & Jenkins
-- 📫 Reach me at: **erray.abdellah@gmail.com**
+- 📫 Reach me at: **rray.abdellah@gmail.com**
 - 🌍 Based in **Morocco** — open to remote missions
 
 ---

@@ -85,8 +85,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErrayAbdellah&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErrayAbdellah&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErrayAbdellah&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ErrayAbdellah&theme=tokyonight&no-frame=true&row=1&column=6" width="90%" />
 </p>
 
 ---
